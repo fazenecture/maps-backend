@@ -1,6 +1,6 @@
 # 🌍 Maps Backend
 
-Maps is an open-source geospatial mapping backend that supports place data management, geolocation-based queries, and optimized routing functionalities. Designed for scalability, this backend can serve millions of users with efficient spatial queries and extensible services.
+Maps Backend is an geospatial mapping backend that supports place data management, geolocation-based queries, and optimized routing functionalities. Designed for scalability, this backend can serve millions of users with efficient spatial queries and extensible services.
 
 ---
 
